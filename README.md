@@ -16,7 +16,7 @@ I'm a passionate backend developer with 2 years of experience specializing in Go
 
 -   **Languages:** Golang (With Gin, Echo framework), JavaScript
 -   **Databases:** MySQL, MongoDB
--   **Tools & Platforms:** Docker, Git, AWS (basic)
+-   **Technical Skill:** Docker, Linux, Git, NATS, Zookeeper, AWS (basic)
 
 #### 🌱 What I'm Currently Learning
 
