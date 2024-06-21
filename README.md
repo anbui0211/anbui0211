@@ -25,7 +25,7 @@ I'm a passionate backend developer with 2 years of experience specializing in Go
 
 #### 🌐 Follow me around the web:
 <div>
-<a href="https://www.linkedin.com/in/hoanglh96/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/buiphuan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100007937435761" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
 
