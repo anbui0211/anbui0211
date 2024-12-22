@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm An!
 
-### 🛠 Golang Developer
+### 🛠 Backend Developer
 
 ---
 
